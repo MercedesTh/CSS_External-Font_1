@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,300&family=Hind+Siliguri:wght@300&family=Playfair+Display&family=Roboto+Mono:wght@600&family=Rock+3D&display=swap');
+
+h1{
+    font-family: 'Rock 3D', cursive;
+}
+
+section p{
+    font-family: 'Bitter', serif;
+}
+
+main p{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+aside p{
+    font-family: 'Playfair Display', serif;
+}
+
+nav p{
+    font-family: 'Roboto Mono', monospace;
+}
+
+footer p{
+    font-family: 'Rock 3D', cursive;
+}
